@@ -27,7 +27,7 @@ const People = () => {
                         <p>Skin Color: {people.skin_color}</p>
                     </div>
                     :
-                    <h1> This id is not avaible. Try again</h1>
+                    <h1> These aren't the droids you're looking for </h1>
             }
         </div>
     )
